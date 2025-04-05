@@ -1,7 +1,7 @@
 Hi, These are the resources I have read or reading, Please feel free to let me know your recommendations.
 
 ## Books
-- Design Patterns Book, [Refactoring Guru](https://refactoring.guru/design-patterns/book)
+- Design Patterns Book, <a href="https://refactoring.guru/design-patterns/book" target="_blank">Refactoring Guru</a>
 
 #Interview Prep
 - Chip Hyuen's [ML Interview book](https://huyenchip.com/ml-interviews-book)
